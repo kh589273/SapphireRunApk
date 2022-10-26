@@ -7,6 +7,7 @@ It is no longer available at that store, though I have already sent this update 
 
 I didn't add or remove anything from the earlier version - only updated it to work with current mobile phones and tablets.
 
+EDIT: The game is now LIVE at https://play.google.com/store/apps/details?id=com.alloddsmobile.sapphirerun
 Meanwhile, to play Sapphire Run on your phone now - download the apk file here.
 
 Download sapphirerun_git.apk file above (by clicking it, and choosing download).
