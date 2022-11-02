@@ -9,6 +9,8 @@ I didn't add or remove anything from the earlier version - only updated it to wo
 
 (EDIT 26-10-22: The game is now LIVE at https://play.google.com/store/apps/details?id=com.alloddsmobile.sapphirerun
 
+This game is now available at Amazon. Works on various Amazon devices including Kindle Fire HD, Fire HD 8 Plus, Fire HD 10 Plus etc. https://www.amazon.com/dp/B0BJ8HH9GW/
+
 I have therefore deleted the apk file here.)
 
 Meanwhile, to play Sapphire Run on your phone now - download the apk file here.
